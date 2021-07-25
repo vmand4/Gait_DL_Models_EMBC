@@ -8,3 +8,5 @@ The visit 1 folder consist of python files with DL model architectures.
 The data can be provided upon request as we need users to complete some training related to HIPAA.
 
 Once we share the data, you can run these models to visualize the performance of models during ACL-R patient visit 1.
+
+Please contact authors of this paper for data request.
